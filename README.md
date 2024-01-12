@@ -1,16 +1,34 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Catower917/Catower917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![header](https://capsule-render.vercel.app/api?type=Venom&text=Catower&height=200&fontColor=ffffff&color=000000&animation=twinkling&fontSize=40)
+  ####  :wave: Welcome my github profile !
+  
+  
+ <br/>
+ <br/>
 
-Here are some ideas to get you started:
+#### 📋: introduce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------
+## Awards
+### 2016.11.4  | 제 2회 글로벌 이노베이터 페스타(GIF) 아이디어톤 창조경제혁신센터장상 (2위) 
+### 2017.10.28 | 제 2회 전국 고등학교 동아리 SW경진대회 본선진출, 장려상         | 카이스트,충남대
+### 2022.10.28 | 제 7회 글로벌 이노베이터 페스타(GIF) 은행권청년창업재단 장려상  | 은행권청년창업재단
+### 2022.09.31 | 공공데이터 활용 챌린지 장려상                                   | ICT이노베이션스퀘어 
+---------------------------------------------------
+## SW education
+### BOB 11,12기 1차 서류 합격
+### 2023.3 ~ 2023.12 | KISIA AI보안개발 악성코드분석 교육
+### 2023.9.~2024.4   | BOB 화이트햇 스쿨 1기 교육 
+---------------------------------------------------
+## SW Activity
+### 2017.10.26 | 제 11회 공개소프트웨어 개발자대회 참여
+### 2021.11.05 | 2021 제 11회 소프트웨어 개발보안 컨퍼런스 참여
+### 2021.11.12 | KISA AI+SECURITY 공모전 참가(Purple Team AI) 
+---------------------------------------------------
+## Start-UP
+### PurpleAILAB CEO
+---------------------------------------------------
+
+</div>
+
